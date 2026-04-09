@@ -1,6 +1,6 @@
 # Vault
 
-Локальный password manager на `Python 3.11+` с интерфейсом на `Tkinter`, локальной базой `SQLite`, темами, аватарками, музыкой, генератором паролей и сборкой в `.exe`.
+Локальный password manager на `Python 3.11+` с интерфейсом на `Tkinter`, локальной базой `SQLite`, темами, аватарками, музыкой, генератором паролей.
 
 ## Что умеет приложение
 
@@ -18,14 +18,14 @@
 
 ## Структура проекта
 
-- `main.py` — точка входа
-- `vault_app/` — модули приложения
-- `app.ico` — иконка приложения
-- `music.mp3` — фоновая музыка
-- `OH FUCK.png` — дефолтный фон
-- `requirements.txt` — зависимости
-- `Vault.spec` / `main.spec` — файлы сборки PyInstaller
-- `release/Vault.exe` — готовая Windows-сборка для скачивания
+- `main.py` - точка входа
+- `vault_app/` - модули приложения
+- `app.ico` - иконка приложения
+- `music.mp3` - фоновая музыка
+- `OH FUCK.png` - дефолтный фон
+- `requirements.txt` - зависимости
+- `Vault.spec` / `main.spec` - файлы сборки PyInstaller
+- `release/Vault.exe` - готовая Windows-сборка для скачивания
 
 ## Быстрый запуск из исходников
 
